@@ -71,5 +71,5 @@ This project involves designing and implementing a robust computer network for t
 
 ---
 
-##For more details: https://medium.com/@priyadharshaninavarathnam/designing-a-secure-and-efficient-university-network-78d974d7ab40
+## For more details: https://medium.com/@priyadharshaninavarathnam/designing-a-secure-and-efficient-university-network-78d974d7ab40
 
